@@ -2,7 +2,7 @@ RubyMotionTokyo Meetups
 =======
 
 RubyMotionTokyoで行われたことをメモするために使います。  
-https://manage.doorkeeper.jp/groups/rubymotion-tokyo
+http://rubymotion-tokyo.doorkeeper.jp/
 
 ## 使い方
 毎回ディレクトリを作成するので各個人で好きなようにMarkdownで適宜ファイルを作っちゃいましょう。    
