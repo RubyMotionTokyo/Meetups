@@ -5,7 +5,7 @@
   * 同時再生でできない
 * toshiwo
   * ProMotionを読みながらTableViewCellを作ったほうがいいのかProMotionのカスタマイズ機能を使ったほうがいいのか
-  * 標準でも結構カスタマイズできる
+  * 標準でも結構カスタマイズできる (公式ドキュメントは[これ](https://github.com/clearsightstudio/ProMotion/wiki/API-Reference:-ProMotion::TableScreen#table_data) の少し下にスクロールした Customizing のあたり)
 * iwazer
   * Open−CVこんなかんじか〜ってのがわかってきた
   * 次からJoyBoxを参考にラッパー書くかも？
