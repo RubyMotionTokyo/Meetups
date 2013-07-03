@@ -44,10 +44,10 @@ C++のクラスは全てObjective-Cのクラスでラップする必要がある
 
 URL Escapeするのよく知られている方法がダサすぎる件についてですが、、SugarCubeで以前探した時には見つからなかったメソッドを今回見つけました。
 
-[escape_url](https://github.com/rubymotion/sugarcube/blob/master/lib/sugarcube/nsstring.rb#L63)
+[NSString#escape_url](https://github.com/rubymotion/sugarcube/blob/master/lib/sugarcube/nsstring.rb#L63)
 
-[unescape_url](https://github.com/rubymotion/sugarcube/blob/master/lib/sugarcube/nsstring.rb#L73)
+[NSString#unescape_url](https://github.com/rubymotion/sugarcube/blob/master/lib/sugarcube/nsstring.rb#L73)
 
 実装はよく知られているダサい方法ですが、ラップされていれば使う方にとっては関係ないのでありがたし（笑）
 
-＃しかし上記2つの実装がぱっと見、対象に見えないのが少し気持ち悪いのは大丈夫なのだろうか。
+＃しかし上記2つの実装がぱっと見、対照に見えないのが少し気持ち悪いのは大丈夫なのだろうか。
