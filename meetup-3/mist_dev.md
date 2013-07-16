@@ -35,3 +35,5 @@
  * babble-wrap のテスト? を引き続き
 * Toshiwo
  * ライブラリとかを触っているので引き続き
+* @ainame
+  * RubyMotionでテストを書くときのパターンをまとめる
