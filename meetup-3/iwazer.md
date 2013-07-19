@@ -31,7 +31,7 @@ moduleのビルド設定は`https://github.com/Itseez/opencv/blob/master/cmake/O
 
 この辺りを対応してopencv2.frameworkをビルドし、とりあえず呼び出すだけやってみる。
 
-```app_delegate.rb
+```ruby
 class AppDelegate
   def application(application, didFinishLaunchingWithOptions:launchOptions)
     mat = MotionMat.new
