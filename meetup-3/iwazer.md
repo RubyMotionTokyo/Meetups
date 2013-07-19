@@ -2,6 +2,8 @@
 
 事前にopencv2.frameworkを直接使ったり、それを利用するラッパーを作って試したのが失敗したので、opencv2.framework内にiOS向けラッパーを組み込む必要があると認識。
 
+_ただし本当にそうなのかという確固とした自信はない（-ω-）_
+
 ## OpenCVのビルド
 
 現状の最新ソースでは一部ワークアラウンドで回避する必要がありましたが、特に難しいことはなかったです。
@@ -16,11 +18,11 @@ https://github.com/Itseez/opencv/tree/master/modules
 
 `motion`モジュールという名前にします。
 
-他のモジュールのディレクトリ構成を参考にソースコードを作成。詳しいことは近いうちにブログに書きますｗ
+他のモジュールのディレクトリ構成を参考にソースコードとCMakeLists.txtを作成。詳しいことは近いうちにブログに書きますｗ
 
 そしてビルドするもbridgeSupportファイルに現れない…
 
-FrameworkのHeadersの中を見るとヘッダファイルが公開されておらず…というところまででRubyMotionTokyo meetup#3に突入。
+opencv2.framework/Headersの中を見るとヘッダファイルが公開されておらず…というところまででRubyMotionTokyo meetup#3に突入。
 
 # meetupでの作業
 
