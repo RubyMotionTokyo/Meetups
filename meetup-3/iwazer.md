@@ -41,7 +41,7 @@ class AppDelegate
 end
 ```
 
-`MotionMat`はOpenCVの`cv::Mat`をラップしたObjective-Cのクラスで、インスタンス変数に`cv::Mat`インスタンスを保有しています。
+`MotionMat`はOpenCVの`cv::Mat`C++クラスをラップしたObjective-Cのクラスで、インスタンス変数に`cv::Mat`インスタンスを保有しています。
 
 `MotionMat#empty`は`cv::Mat#empty`へデリゲートしているだけです。
 
