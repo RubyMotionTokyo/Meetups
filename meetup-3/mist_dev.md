@@ -82,3 +82,4 @@ Sinatra + Sequel + ERB っぽいもの
  * iwazar > 環境変数で設定して info.plist でごにょごにょ
  * watson > configuration file を別に作成するのはみんなやるよね
  * Toshiwo > motion-config-vars‎ とか ほかにもライブラリあるよ 
+   * 同様のgemに motion-config もあるけれど、やっていることは motion-config-vars と同じくENVに設定するような処理でした。こちらはgithub上からreposが消えているので motion-config-varsでいいかも
