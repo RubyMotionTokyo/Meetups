@@ -1,6 +1,6 @@
 # 議事録
 ## 参加者
-* @ainame：calabash-iosをRubyMotionで使う
+* @ainame：calabash-iosをRubyMotionで使うmotion-calabashで、
 record_begin -> record_endで動作を定義して既存のテストを動かせた！
 
 * @iwaser：OpenCVのサンプルを動かす＋ラッパー作る
