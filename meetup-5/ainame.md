@@ -9,5 +9,5 @@
 * iwazer: OpenCVで漫画フィルター実装のAPIを作る！
 * 梅田雅一: Rubyのチュートリアル
 * 伊藤直也: HBFav2アップデート
-* toshiwo:
+* toshiwo: ProMotionの機能追加
 
