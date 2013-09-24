@@ -12,3 +12,4 @@
 * Toshikazu Horii
   * Pixate2.0
 * amazedkoumei
+  * リリース済みアプリのiOS7対応
