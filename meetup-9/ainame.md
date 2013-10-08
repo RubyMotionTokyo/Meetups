@@ -30,3 +30,4 @@
   * TestFlight
   * RubyMotionEssentialをもとに作業
   * iOS Developer Programを購入して終わった
+  * 画像スクロール
