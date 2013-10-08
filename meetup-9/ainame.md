@@ -8,6 +8,7 @@
   * プルリクエスト
 * Toshikazu Horii
   * four-square の APIでアプリ
+  * Objective-Cのライブラリの実装がイケてなかったので自作するかも？
 * toshiwo
 * watson1978
   * SublimeTextのPluginの修正
