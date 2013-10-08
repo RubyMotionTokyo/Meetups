@@ -2,6 +2,7 @@
 敬称略
 
 * ainame
+  * ib gemの追加修正
 * iwazer
   * OpenCV苦しくなってきて暇つぶしのアプリ作ってた
   * プルリクエスト
@@ -14,6 +15,7 @@
 * HIROCASTER
   * メールアプリのiOS7対応
 * 伊藤直也
+  * iOS7対応
 * Hideaki KAWAI
   * WebAppと連携するアプリを作ってる
   * HBFav2を読む
