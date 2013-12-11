@@ -1,5 +1,6 @@
 # 議事録
-
+* ainame
+  * Advent Calendar用のサンプルアプリ作成
 * Hideaki KAWAI
   * SKK likeなIMEを作る！！
   * Macとの結合部分が難しい
